@@ -1,0 +1,1 @@
+This is the Transformer Architecture from scratch project, in this I will be reconstructing the tranformer with as few framework tools as possible. The goal of this project is to better understand the foundation of LLMs.
