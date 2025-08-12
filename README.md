@@ -9,6 +9,8 @@ This code is free for all users to pull, if you want to use it you should provid
 
 ## Current Project List
 Below I provide a list of the current projects along with short descriptions of what each of them achieve.
+### Classical Shadow Tomography | Status: In Progress 🛠️
+This project explores efficient quantum state property estimation using classical shadows, with both standard post-processing and an experimental LLM-assisted approach to predict observables directly from shadow data.
 ### Gradient Methods QML | Status: Incomplete 🛠️
 This project is a study of gradient methods in quantum optimisation algorithms for machine learning. Included is a variational quantum classifier which will be used with several benchmark gradient methods to study what methods work best for different tasks.
 ### Machine Learning | Status: Complete ✅
